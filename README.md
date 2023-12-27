@@ -21,7 +21,7 @@ This is a simple GUI calculator built using Python's Tkinter package. It perform
 
 ## Demo
 
-
+https://github.com/Chaitanya-2604/Calculator__Gui/assets/119853009/01f791c0-db4e-40db-b224-00813cde2c11
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, feel free to submit a pull request.
